@@ -14,6 +14,7 @@
 		4FD6C3571F29D7B300F27F68 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FD6C3551F29D7B300F27F68 /* LaunchScreen.storyboard */; };
 		4FD6C35F1F29DFEB00F27F68 /* BG_Prime.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4FD6C35E1F29DFEB00F27F68 /* BG_Prime.jpg */; };
 		4FD6C3611F29EA7900F27F68 /* MyClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD6C3601F29EA7900F27F68 /* MyClass.swift */; };
+		4FFFDFF71F2AD3EC00FC04A9 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4FFFDFF61F2AD3EC00FC04A9 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4FD6C3581F29D7B300F27F68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4FD6C35E1F29DFEB00F27F68 /* BG_Prime.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = BG_Prime.jpg; path = ../../../BG_Prime.jpg; sourceTree = "<group>"; };
 		4FD6C3601F29EA7900F27F68 /* MyClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyClass.swift; sourceTree = "<group>"; };
+		4FFFDFF61F2AD3EC00FC04A9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		4FD6C3401F29D7B300F27F68 = {
 			isa = PBXGroup;
 			children = (
+				4FFFDFF61F2AD3EC00FC04A9 /* README.md */,
 				4FD6C34B1F29D7B300F27F68 /* FunnyNumber */,
 				4FD6C34A1F29D7B300F27F68 /* Products */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				4FD6C34F1F29D7B300F27F68 /* ViewController.swift in Sources */,
 				4FD6C34D1F29D7B300F27F68 /* AppDelegate.swift in Sources */,
+				4FFFDFF71F2AD3EC00FC04A9 /* README.md in Sources */,
 				4FD6C3611F29EA7900F27F68 /* MyClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -309,6 +313,7 @@
 				4FD6C35D1F29D7B300F27F68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
